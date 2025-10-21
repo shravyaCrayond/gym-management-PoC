@@ -1,0 +1,17 @@
+flask
+sqlalchemy
+opencv-python
+torch
+ultralytics
+deepface
+numpy
+pandas
+scikit-learn
+moviepy
+python-dotenv
+filterpy
+scipy
+torchvision
+sqlalchemy
+matplotlib
+tqdm

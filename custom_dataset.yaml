@@ -1,0 +1,16 @@
+train: 'C:\Users\yadav\OneDrive\Desktop\crayon\gym_trainer_poc\dataset\images\train'
+val: 'C:\Users\yadav\OneDrive\Desktop\crayon\gym_trainer_poc\dataset\images\val'
+
+
+nc: 10  
+names:
+  0: p001
+  1: p002
+  2: p003
+  3: plank
+  4: pushups
+  5: running
+  6: squats
+  7: T001
+  8: T002
+  9: money

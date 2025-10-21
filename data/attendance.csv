@@ -1,0 +1,8 @@
+trainer_id,member_id,zone,timestamp
+T001,M101,Cardio,2025-10-19 10:05:00
+T001,M101,Cardio,2025-10-19 10:50:00
+T001,M101,Yoga Zone,2025-10-19 10:40:00  ← new unauthorized service
+T002,M102,Weight Zone,2025-10-19 11:35:00
+T002,M102,Weight Zone,2025-10-19 12:10:00
+T003,M103,Yoga Zone,2025-10-19 09:20:00
+T003,M103,Yoga Zone,2025-10-19 09:50:00
